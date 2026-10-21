@@ -17,7 +17,10 @@ export async function loadAssets(onProgress) {
   await Promise.all(
     files.map(async (name) => {
       assets[name] = await new GLTFLoader().loadAsync(
-        "/assets/" + name + (files.indexOf(name) < 5 ? ".gltf" : ".glb"),
+        import.meta.env.BASE_URL +
+          "assets/" +
+          name +
+          (files.indexOf(name) < 5 ? ".gltf" : ".glb"),
       );
       onProgress(++n / files.length);
     }),

@@ -8,6 +8,10 @@ GIFは実行中のChrome/WebGL画面を連続キャプチャし、Pillowで変�
 
 ## 遊ぶ
 
+[**ブラウザでプレイ — GitHub Pages**](https://onego15.github.io/gta-gpt/)
+
+### ローカルで起動
+
 Node.js 22.12以上を推奨。デスクトップのChrome/Edge、WebGL2、キーボードとマウスが必要です。
 
 ```sh
@@ -25,6 +29,12 @@ npm run preview
 ```
 
 プレビューは [http://localhost:4181](http://localhost:4181)。`dist/` を静的ホスティングのルートに配置できます。モデル・フォント・音響処理はローカル同梱で、起動後に外部CDNやAPIへ接続する必要はありません。HTMLを`file://`で直接開かず、HTTPサーバーを使用してください。
+
+### GitHub Pagesへの自動公開
+
+`main`へのpushで[公開ワークフロー](.github/workflows/pages.yml)が起動し、依存関係のインストール・ビルド・Pagesへのデプロイを実行します。Actions画面から手動実行も可能です。Pagesの公開元は「GitHub Actions」です。
+
+Pages用ビルドでは`PAGES_BASE_PATH=/gta-gpt/`を設定し、JavaScript・CSS・フォント・3Dモデルをリポジトリ配下から読み込みます。環境変数を指定しないローカルビルドは従来どおり`/`を利用します。
 
 ## 操作
 
