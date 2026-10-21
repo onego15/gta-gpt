@@ -1,0 +1,22 @@
+{
+  "title": "HARBOR — After Hours",
+  "timezone": "Asia/Tokyo",
+  "verifiedStart": "2026-10-21T08:53:43+09:00",
+  "finished": "2026-10-21T09:26:17+09:00",
+  "elapsedSeconds": 1954,
+  "elapsedReadable": "32分34秒",
+  "timingScope": "This session's verified work interval. Existing preparation files dated 08:50 were present; time before 08:53:43 is not inferred.",
+  "service": "OpenAI Codex desktop",
+  "modelNameConfirmedByInstructions": "GPT-6",
+  "exactVariantOrSnapshot": null,
+  "modelDisclosure": "No exact model variant or API snapshot identifier was exposed to this session. No speculative identifier is claimed.",
+  "build": {"passed": true, "vite": "7.3.7", "three": "0.180.0", "output": "dist", "note": "Three.js vendor bundle exceeds the default 500 kB advisory threshold. Build completed successfully."},
+  "reports": ["test-results.json", "mission-tests.json", "driving-test.json", "production-test.json"],
+  "passedChecks": 16,
+  "lastProductionRuntimeErrors": 0,
+  "lastProductionFailedRequests": 0,
+  "lastProductionExternalNetworkRequests": 0,
+  "assetInventory": "assets.json",
+  "recording": {"file": "demo.gif", "source": "Actual interactive WebGL gameplay captured in Chrome", "frames": 81, "dimensions": [768,480], "gifDurationMs": 15380, "teleportation": false, "syntheticFrames": false},
+  "limitations": ["Desktop Chrome tested; other browsers and mobile devices not comprehensively tested", "No prolonged soak test", "No subjective human listening evaluation", "Some automated mission test setup uses position, aim, or health controls; the dedicated delivery driving test and GIF do not teleport", "Fixed late-afternoon lighting rather than a dynamic day/night cycle", "Simplified traffic navigation and vehicle physics; no dedicated opening-door animation"]
+}

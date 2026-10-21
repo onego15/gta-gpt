@@ -1,0 +1,174 @@
+{
+  "timestamp": "2026-10-21T00:18:48.398Z",
+  "results": [
+    {
+      "name": "Assets and simulated population",
+      "pass": true
+    },
+    {
+      "name": "Walk and sprint with real keyboard input",
+      "pass": true
+    },
+    {
+      "name": "Building collision",
+      "pass": true
+    },
+    {
+      "name": "Enter car, accelerate, brake, exit",
+      "pass": true
+    },
+    {
+      "name": "Delivery mission end-to-end state progression",
+      "pass": true
+    },
+    {
+      "name": "Shoot, recoil, NPC panic, wanted, police dispatch",
+      "pass": true
+    },
+    {
+      "name": "Reload transfers ammunition",
+      "pass": true
+    },
+    {
+      "name": "Death penalty and safe respawn",
+      "pass": true
+    },
+    {
+      "name": "Pause freezes simulation and resume works",
+      "pass": true
+    },
+    {
+      "name": "Traffic remains finite after combat",
+      "pass": true
+    }
+  ],
+  "errors": [],
+  "failed": [],
+  "state": {
+    "started": true,
+    "paused": false,
+    "armed": false,
+    "pos": [
+      28,
+      0.04,
+      10
+    ],
+    "yaw": 3.141592653589793,
+    "ammo": 12,
+    "reserve": 72,
+    "reload": -0.010700000000004133,
+    "hp": 100,
+    "wanted": 0,
+    "hidden": 0,
+    "police": 0,
+    "policeCars": 0,
+    "pedestrians": 30,
+    "panic": 0,
+    "traffic": [
+      {
+        "pos": [
+          -77.5445309388324,
+          0,
+          86.68401079959675
+        ],
+        "speed": 8.734263779391208
+      },
+      {
+        "pos": [
+          37.32353688933605,
+          0,
+          -87.82195265273941
+        ],
+        "speed": 8.668123447335992
+      },
+      {
+        "pos": [
+          -8.68951445123965,
+          0,
+          81.4
+        ],
+        "speed": 6.889367983219256
+      },
+      {
+        "pos": [
+          31.163347512048908,
+          0,
+          4.719837097783121
+        ],
+        "speed": 6.118057381100002
+      },
+      {
+        "pos": [
+          -30.773100837771185,
+          0,
+          -80.53003159098503
+        ],
+        "speed": 0.0025606958677954236
+      },
+      {
+        "pos": [
+          34.795672465477445,
+          0,
+          82.53690322678709
+        ],
+        "speed": 7.272907331585672
+      },
+      {
+        "pos": [
+          -81.44411644954054,
+          0,
+          -22.559112389916653
+        ],
+        "speed": 1.6003348283397454
+      },
+      {
+        "pos": [
+          -6.783641884832641,
+          0,
+          25.116973978415604
+        ],
+        "speed": 6.493938865820473
+      },
+      {
+        "pos": [
+          87.42441343256819,
+          0,
+          23.996773299364584
+        ],
+        "speed": 0.0007356576234516934
+      },
+      {
+        "pos": [
+          -31.09137343847817,
+          0,
+          87.84626332561335
+        ],
+        "speed": 8.313944748602562
+      },
+      {
+        "pos": [
+          71.67772787115854,
+          0,
+          23.679926379733974
+        ],
+        "speed": 6.461331542670862
+      },
+      {
+        "pos": [
+          69.58451470609482,
+          0,
+          -81.18237494158558
+        ],
+        "speed": 7.93514861291623
+      }
+    ],
+    "mission": null,
+    "completed": 1,
+    "cash": 500,
+    "fps": 66,
+    "drawCalls": 260,
+    "triangles": 249336,
+    "animation": "Idle",
+    "hand": "WristR"
+  }
+}

@@ -1,0 +1,7 @@
+node_modules/
+dist/
+.local/
+*.tar.gz
+test-results/
+.openai/
+asset-drive-page.txt

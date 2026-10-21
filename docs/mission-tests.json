@@ -1,0 +1,143 @@
+{
+  "timestamp": "2026-10-21T00:14:33.007Z",
+  "results": [
+    {
+      "name": "Combat mission: aim and shoot all enemies with actual mouse input",
+      "pass": true
+    },
+    {
+      "name": "Escape mission: line-of-sight loss, wanted decay, safe destination",
+      "pass": true
+    },
+    {
+      "name": "Arrest penalty and police reset",
+      "pass": true
+    },
+    {
+      "name": "Civilian vehicle theft causes wanted level",
+      "pass": true
+    }
+  ],
+  "errors": [],
+  "state": {
+    "started": true,
+    "paused": false,
+    "armed": false,
+    "pos": [
+      -81.4877952687588,
+      0,
+      -22.05499140836866
+    ],
+    "yaw": -3.167833278794325,
+    "vehicle": "taxi",
+    "speed": 0,
+    "ammo": 12,
+    "reserve": 72,
+    "reload": -4.2674197509029455e-16,
+    "hp": 100,
+    "wanted": 2,
+    "hidden": 0,
+    "police": 0,
+    "policeCars": 0,
+    "pedestrians": 30,
+    "panic": 9,
+    "traffic": [
+      {
+        "pos": [
+          80.82571687561628,
+          0,
+          -31.746547947078405
+        ],
+        "speed": 0.04258083955450381
+      },
+      {
+        "pos": [
+          -26.308657087434415,
+          0,
+          -1.09110545597507
+        ],
+        "speed": 6.889381300890818
+      },
+      {
+        "pos": [
+          30.607102266048972,
+          0,
+          79.01830839005288
+        ],
+        "speed": 0.025795545882268473
+      },
+      {
+        "pos": [
+          46.58157345536872,
+          0,
+          -87.34028843315576
+        ],
+        "speed": 8.833984166998361
+      },
+      {
+        "pos": [
+          -24.144389098867226,
+          0,
+          43.932627516855106
+        ],
+        "speed": 7.272816312428317
+      },
+      {
+        "pos": [
+          -15.695312320955182,
+          0,
+          -24.63724805664626
+        ],
+        "speed": 6.766976645365917
+      },
+      {
+        "pos": [
+          -31.3382314257339,
+          0,
+          -20.66240447756053
+        ],
+        "speed": 0.007631055987968955
+      },
+      {
+        "pos": [
+          51.00636116786368,
+          0,
+          83.19888642221349
+        ],
+        "speed": 8.121007858221587
+      },
+      {
+        "pos": [
+          -80.72537196405817,
+          0,
+          32.16516811810049
+        ],
+        "speed": 0.5464744469725134
+      },
+      {
+        "pos": [
+          16.3108479907802,
+          0,
+          24.586002590011745
+        ],
+        "speed": 6.574013879823281
+      },
+      {
+        "pos": [
+          87.62879164090957,
+          0,
+          18.03674235080072
+        ],
+        "speed": 7.935195614118129
+      }
+    ],
+    "mission": null,
+    "completed": 2,
+    "cash": 1355,
+    "fps": 50,
+    "drawCalls": 118,
+    "triangles": 174366,
+    "animation": "Interact",
+    "hand": "WristR"
+  }
+}

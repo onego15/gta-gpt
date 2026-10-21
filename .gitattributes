@@ -1,0 +1,5 @@
+*.gltf -text
+*.glb binary
+*.ttf binary
+*.gif binary
+*.png binary

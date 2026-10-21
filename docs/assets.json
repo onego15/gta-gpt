@@ -1,0 +1,106 @@
+[
+  {
+    "file": "public/assets/hoodie.gltf",
+    "author": "Quaternius",
+    "license": "CC0-1.0",
+    "source": "https://quaternius.com/packs/ultimatemodularcharacters.html",
+    "download": "https://raw.githubusercontent.com/agentkaerf/FreeModels/main/Ultimate%20Modular%20Men-%20Feb%202022/Individual%20Characters/glTF/Casual_Hoodie.gltf",
+    "sha256": "dd74886c26998a0fa888b4ce557a0932d7d97b0265dd4c763154d081b7a6cb98",
+    "bytes": 3104001,
+    "changes": "In-game scaling, skeleton cloning, animation blending. Source file preserved."
+  },
+  {
+    "file": "public/assets/casual.gltf",
+    "author": "Quaternius",
+    "license": "CC0-1.0",
+    "source": "https://quaternius.com/packs/ultimatemodularcharacters.html",
+    "download": "https://raw.githubusercontent.com/agentkaerf/FreeModels/main/Ultimate%20Modular%20Men-%20Feb%202022/Individual%20Characters/glTF/Casual_2.gltf",
+    "sha256": "55c654d09a2a5ff6e3bd6158d4a1b462f181cd6f1e12a0f5e9d959f9c3abc438",
+    "bytes": 3058092,
+    "changes": "In-game scaling, skeleton cloning, animation blending. Source file preserved."
+  },
+  {
+    "file": "public/assets/officer.gltf",
+    "author": "Quaternius",
+    "license": "CC0-1.0",
+    "source": "https://quaternius.com/packs/ultimatemodularcharacters.html",
+    "download": "https://raw.githubusercontent.com/agentkaerf/FreeModels/main/Ultimate%20Modular%20Men-%20Feb%202022/Individual%20Characters/glTF/Swat.gltf",
+    "sha256": "622b3f36fcac90539ef8f7121ec1f11b5e1ae603a085019b3fa96eba20dddfd3",
+    "bytes": 3368868,
+    "changes": "In-game scaling, skeleton cloning, animation blending. Source file preserved."
+  },
+  {
+    "file": "public/assets/suit.gltf",
+    "author": "Quaternius",
+    "license": "CC0-1.0",
+    "source": "https://quaternius.com/packs/ultimatemodularcharacters.html",
+    "download": "https://raw.githubusercontent.com/agentkaerf/FreeModels/main/Ultimate%20Modular%20Men-%20Feb%202022/Individual%20Characters/glTF/Suit.gltf",
+    "sha256": "6c89fbb31b96c1a63ad94e3dee0942bd7b34bc789a5d39fd6a6a1738a9214fb3",
+    "bytes": 3315342,
+    "changes": "In-game scaling, skeleton cloning, animation blending. Source file preserved."
+  },
+  {
+    "file": "public/assets/woman.gltf",
+    "author": "Quaternius",
+    "license": "CC0-1.0",
+    "source": "https://quaternius.com/packs/ultimatemodularwomen.html",
+    "download": "https://raw.githubusercontent.com/agentkaerf/FreeModels/main/Ultimate%20Modular%20Women%20-%20April%202022/Individual%20Characters/glTF/Casual.gltf",
+    "sha256": "b0fe6e92219cd71808844a20a1a8b960fd1cf640a6546dc6362b5add6604e87c",
+    "bytes": 3131788,
+    "changes": "In-game scaling, skeleton cloning, animation blending. Source file preserved."
+  },
+  {
+    "file": "public/assets/sedan.glb",
+    "author": "Kenney",
+    "license": "CC0-1.0",
+    "source": "https://kenney.nl/assets/car-kit",
+    "download": "https://raw.githubusercontent.com/Hidencod/tge-assets/main/packs/car-kit/sedan-sports.glb",
+    "sha256": "aba8186e85d3aa828cb9af5c735f640c893315fb45662cf1eabf1ed9676fa99f",
+    "bytes": 189920,
+    "changes": "In-game scaling, skeleton cloning, animation blending. Source file preserved."
+  },
+  {
+    "file": "public/assets/taxi.glb",
+    "author": "Kenney",
+    "license": "CC0-1.0",
+    "source": "https://kenney.nl/assets/car-kit",
+    "download": "https://raw.githubusercontent.com/Hidencod/tge-assets/main/packs/car-kit/taxi.glb",
+    "sha256": "c0ead3df92617dbca425e522003e80777cffc5f8987f664abab1363ff786704c",
+    "bytes": 187896,
+    "changes": "In-game scaling, skeleton cloning, animation blending. Source file preserved."
+  },
+  {
+    "file": "public/assets/police.glb",
+    "author": "Kenney",
+    "license": "CC0-1.0",
+    "source": "https://kenney.nl/assets/car-kit",
+    "download": "https://raw.githubusercontent.com/Hidencod/tge-assets/main/packs/car-kit/police.glb",
+    "sha256": "4532aa00b8c313b0d81d81b81ea9f56dca54ee99c909f610988b00f9deaf7996",
+    "bytes": 207584,
+    "changes": "In-game scaling, skeleton cloning, animation blending. Source file preserved."
+  },
+  {
+    "file": "public/fonts/BarlowCondensed-Medium.ttf",
+    "author": "Jeremy Tribby",
+    "license": "OFL-1.1",
+    "download": "https://raw.githubusercontent.com/google/fonts/main/ofl/barlowcondensed/BarlowCondensed-Medium.ttf",
+    "bytes": 103360,
+    "sha256": "262bd143292ce479ee0cd09a42b47ab173fca8e9c6eb5ed0b5c8a845bc371d17"
+  },
+  {
+    "file": "public/fonts/BarlowCondensed-SemiBold.ttf",
+    "author": "Jeremy Tribby",
+    "license": "OFL-1.1",
+    "download": "https://raw.githubusercontent.com/google/fonts/main/ofl/barlowcondensed/BarlowCondensed-SemiBold.ttf",
+    "bytes": 109428,
+    "sha256": "7b619d14bc2327509a9ef32b0890f709626f7ecc9ff61191c2a4314c5499d2d9"
+  },
+  {
+    "file": "public/fonts/BarlowCondensed-Bold.ttf",
+    "author": "Jeremy Tribby",
+    "license": "OFL-1.1",
+    "download": "https://raw.githubusercontent.com/google/fonts/main/ofl/barlowcondensed/BarlowCondensed-Bold.ttf",
+    "bytes": 109912,
+    "sha256": "e476562ec9c1e16cf16475895b511f08c804f438cc9a9f80a44ea50a0eeb5b65"
+  }
+]
